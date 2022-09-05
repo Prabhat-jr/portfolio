@@ -1,0 +1,21 @@
+.details > p {
+  font-weight: 400;
+  font-size: 13px;
+}
+
+img {
+  transform: scale(0.6);
+  margin-bottom: -2rem;
+  /* margin-top: -1rem; */
+}
+
+.details > button {
+  background-color: #ffffff;
+  box-shadow: 0px 19px 60px rgb(0, 0, 0, 0.08);
+  border-radius: 7px;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  color: #5290fd;
+  cursor: pointer;
+}
